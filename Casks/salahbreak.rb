@@ -1,6 +1,6 @@
 cask "salahbreak" do
   version "1.0.0"
-  sha256 "bfaa0a127099102fb672f711c22534db6b8c71739a84303ee7df9b3267c01365"
+  sha256 "e6dcbf689e7dad66518f275b59523572145b7d657a65c7d60aa0ac2da9d18d02"
 
   url "https://github.com/salahbreak/salahbreak/releases/download/v#{version}/SalahBreak-#{version}.dmg",
       verified: "github.com/salahbreak/"
